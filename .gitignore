@@ -1,0 +1,15 @@
+*~
+.*~
+Build
+Doxyfile
+doc
+doc/*.css
+tags
+_tmp*_
+.hg
+*.[ch]2
+*.ignore
+*.log
+*.o
+*.obj
+.*.sw?
