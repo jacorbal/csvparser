@@ -1,4 +1,4 @@
-# csvparser -- Extended CSV basic parser operations declaration
+# csvparser -- Extended CSV basic parser
 
 Basic CSV parser implemented in C.
 
